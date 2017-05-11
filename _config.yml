@@ -28,9 +28,9 @@ comments :
 
 # Internal nav
 nav:
-  - 照片墙: "https://jaynancy.github.io/JieLinPhoto/gallery/"  
-  - 博客: "https://jaynancy.github.io/JieLinPhoto/journal/"
-  - 关于: "https://jaynancy.github.io/JieLinPhoto/about/"
+  - Photo: "https://jaynancy.github.io/JieLinPhoto/gallery/"  
+  - Blog: "https://jaynancy.github.io/JieLinPhoto/journal/"
+  - About: "https://jaynancy.github.io/JieLinPhoto/about/"
 
 # All translation keys
 translations:
