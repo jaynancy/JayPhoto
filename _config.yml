@@ -4,12 +4,7 @@ email: ""
 description: "Photo Journal"
 url: "https://jaynancy.github.io"
 baseurl: "/JieLinPhoto"
-facebook_username: ""
-twitter_username: ""
-instagram_username: ""
-github_username:  ""
-deviantart_username: ""
-flickr_username: ""
+
 discus_shortname: ""
 share: true
 
@@ -33,9 +28,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://jaynancy.github.io/JieLinPhoto/gallery/"  
-  - JOURNAL: "https://jaynancy.github.io/JieLinPhoto/journal/"
-  - ABOUT: "https://jaynancy.github.io/JieLinPhoto/about/"
+  - 照片墙: "https://jaynancy.github.io/JieLinPhoto/gallery/"  
+  - 博客: "https://jaynancy.github.io/JieLinPhoto/journal/"
+  - 关于: "https://jaynancy.github.io/JieLinPhoto/about/"
 
 # All translation keys
 translations:
