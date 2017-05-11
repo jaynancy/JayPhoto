@@ -29,8 +29,8 @@ comments :
 # Internal nav
 nav:
   - gallery: "https://jaynancy.github.io/JieLinPhoto/gallery/"  
-  - journal: "https://jaynancy.github.io/JieLinPhoto/journal/"
   - about: "https://jaynancy.github.io/JieLinPhoto/about/"
+  - journal: "https://jaynancy.github.io/JieLinPhoto/journal/"
 
 # All translation keys
 translations:
