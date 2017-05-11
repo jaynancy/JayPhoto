@@ -30,7 +30,7 @@ comments :
 nav:
   - gallery: "https://jaynancy.github.io/JieLinPhoto/gallery/"  
   - about: "https://jaynancy.github.io/JieLinPhoto/about/"
-  - journal: "https://jaynancy.github.io/JieLinPhoto/journal/"
+#  - journal: "https://jaynancy.github.io/JieLinPhoto/journal/"
 
 # All translation keys
 translations:
