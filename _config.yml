@@ -3,7 +3,7 @@ title: Jay Lin
 email: ""
 description: "Photo Journal"
 url: "https://jaynancy.github.io"
-baseurl: "/JieLinPhoto"
+baseurl: "/JayPhoto"
 
 discus_shortname: ""
 share: true
@@ -28,8 +28,8 @@ comments :
 
 # Internal nav
 nav:
-  - gallery: "https://jaynancy.github.io/JieLinPhoto/gallery/"  
-  - about: "https://jaynancy.github.io/JieLinPhoto/about/"
+  - gallery: "https://jaynancy.github.io/JayPhoto/gallery/"  
+  - about: "https://jaynancy.github.io/JayPhoto/about/"
 #  - journal: "https://jaynancy.github.io/JieLinPhoto/journal/"
 
 # All translation keys
